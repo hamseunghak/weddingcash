@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
     public Context mContext;
     private String qrurl;
 
+    String aa;
+
     ProgressBar pBar;
     private long backBtnTime = 0;
 
